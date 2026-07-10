@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ShriLoshini/Leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ShriLoshini/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
