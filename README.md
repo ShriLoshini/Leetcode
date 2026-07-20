@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShriLoshini/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ShriLoshini/Leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
