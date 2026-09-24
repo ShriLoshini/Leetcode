@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ShriLoshini/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShriLoshini/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ShriLoshini/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/ShriLoshini/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShriLoshini/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShriLoshini/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
