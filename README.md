@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ShriLoshini/Leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ShriLoshini/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/ShriLoshini/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/ShriLoshini/Leetcode/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShriLoshini/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
