@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0709-to-lower-case](https://github.com/ShriLoshini/Leetcode/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShriLoshini/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
