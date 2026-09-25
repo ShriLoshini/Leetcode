@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShriLoshini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ShriLoshini/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShriLoshini/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShriLoshini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShriLoshini/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShriLoshini/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/ShriLoshini/Leetcode/tree/master/0709-to-lower-case) |
