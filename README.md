@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShriLoshini/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/ShriLoshini/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ShriLoshini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ShriLoshini/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/ShriLoshini/Leetcode/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ShriLoshini/Leetcode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShriLoshini/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
